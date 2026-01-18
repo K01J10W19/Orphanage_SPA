@@ -26,21 +26,21 @@ function About() {
 
                             <div className="col-md-4">
                                 <div className="circular-img-container mx-auto mb-4">
-                                    <img src="src/assets/What_We_Do_img01.webp" alt="Loving environment" className="img-fluid" />
+                                    <img src="/assets/What_We_Do_img01.webp" alt="Loving environment" className="img-fluid" />
                                 </div>
                                 <p className="fw-light fs-5 px-3">A loving and secure living environment</p>
                             </div>
 
                             <div className="col-md-4">
                                 <div className="circular-img-container mx-auto mb-4">
-                                    <img src="src/assets/What_We_Do_img02.webp" alt="Education" className="img-fluid" />
+                                    <img src="/assets/What_We_Do_img02.webp" alt="Education" className="img-fluid" />
                                 </div>
                                 <p className="fw-light fs-5 px-3">Access to education and emotional support</p>
                             </div>
 
                             <div className="col-md-4">
                                 <div className="circular-img-container mx-auto mb-4">
-                                    <img src="src/assets/What_We_Do_img03.webp" alt="Necessities, Healthcare & Guidance" className="img-fluid" />
+                                    <img src="/assets/What_We_Do_img03.webp" alt="Necessities, Healthcare & Guidance" className="img-fluid" />
                                 </div>
                                 <p className="fw-light fs-5 px-3">Daily necessities, healthcare, and guidance</p>
                             </div>

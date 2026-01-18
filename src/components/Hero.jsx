@@ -24,10 +24,10 @@ function Hero() {
                         <div className="col-lg-6 position-relative" style={{ padding: '0px'}}>
                             <div className="container"  style={{ paddingTop: '15px'}}>
                                 <div className="mb-4 shadow-strong overflow-hidden" style={{ width: '85%', transform: 'translateX(-20px)', position: 'relative', zIndex: '10'}}>
-                                    <img src="src/assets/hero_img02.webp" className="w-100" alt="Happy child" style={{ height: '300px', objectFit: 'cover' }}/>
+                                    <img src="/assets/hero_img02.webp" className="w-100" alt="Happy child" style={{ height: '300px', objectFit: 'cover' }}/>
                                 </div>
                                 <div className="shadow-strong overflow-hidden" style={{ marginTop: '-80px', transform: 'translateX(20px)', position: 'relative', zIndex: '1'}}>
-                                    <img src="src/assets/hero_img01.webp" className="w-100" alt="Children group" style={{ height: '300px', objectFit: 'cover' }}/>
+                                    <img src="/assets/hero_img01.webp" className="w-100" alt="Children group" style={{ height: '300px', objectFit: 'cover' }}/>
                                 </div>
                             </div>
                         </div>

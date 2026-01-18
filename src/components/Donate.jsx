@@ -20,7 +20,7 @@ function Donate() {
                         {/* Card 1: Education */}
                         <div className="col-xl-3 col-lg-4 col-md-6 col-12">
                             <div className="card h-100 border-0 shadow-sm rounded-4 overflow-hidden">
-                                <img src="src/assets/donate_img01.webp" className="card-img-top object-fit-cover" style={{ height: '180px'}} alt="Education" />
+                                <img src="/assets/donate_img01.webp" className="card-img-top object-fit-cover" style={{ height: '180px'}} alt="Education" />
                                 <div className="card-body p-3">
                                     <span className="badge bg-success-subtle text-success mb-2 px-2">Education</span>
                                     <h5 className="fw-bold mb-3">Help Azar to continue his study</h5>
@@ -50,7 +50,7 @@ function Donate() {
                         {/* Card 2: Health */}
                         <div className="col-xl-3 col-lg-4 col-md-6 col-12">
                             <div className="card h-100 border-0 shadow-sm rounded-4 overflow-hidden">
-                                <img src="src/assets/donate_img02.webp" className="card-img-top object-fit-cover" style={{ height: '180px'}} alt="Education" />
+                                <img src="/assets/donate_img02.webp" className="card-img-top object-fit-cover" style={{ height: '180px'}} alt="Education" />
                                 <div className="card-body p-3">
                                     <span className="badge bg-primary-subtle text-primary mb-2 px-2">Health</span>
                                     <h5 className="fw-bold mb-4 pb-3">Save Peter life</h5>
@@ -80,7 +80,7 @@ function Donate() {
                         {/* Card 3: School Construction */}
                         <div className="col-xl-3 col-lg-4 col-md-6 col-12">
                             <div className="card h-100 border-0 shadow-sm rounded-4 overflow-hidden">
-                                <img src="src/assets/donate_img03.webp" className="card-img-top object-fit-cover" style={{ height: '180px'}} alt="Education" />
+                                <img src="/assets/donate_img03.webp" className="card-img-top object-fit-cover" style={{ height: '180px'}} alt="Education" />
                                 <div className="card-body p-3">
                                     <span className="badge bg-warning-subtle text-warning mb-2 px-2">Education</span>
                                     <h5 className="fw-bold mb-3">Build School for poor students</h5>
@@ -110,7 +110,7 @@ function Donate() {
                         {/* Card 4: Make them happy */}
                         <div className="col-xl-3 col-lg-4 col-md-6 col-12">
                             <div className="card h-100 border-0 shadow-sm rounded-4 overflow-hidden">
-                                <img src="src/assets/donate_img04.webp" className="card-img-top object-fit-cover" style={{ height: '180px'}} alt="Education" />
+                                <img src="/assets/donate_img04.webp" className="card-img-top object-fit-cover" style={{ height: '180px'}} alt="Education" />
                                 <div className="card-body p-3">
                                     <span className="badge bg-success-subtle text-success mb-2 px-2">Education</span>
                                     <h5 className="fw-bold mb-3 pb-4">Make them happy</h5>

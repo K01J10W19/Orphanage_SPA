@@ -19,7 +19,7 @@ function Stories() {
                         <div className="row align-items-center mb-5 pb-4">
                             <div className="col-auto">
                                 <div className="rounded-circle overflow-hidden shadow-sm" style={{ width: '180px', height: '180px' }}>
-                                    <img src="src/assets/Stories_img01.webp" alt="Aina" className="w-100 h-100 object-fit-cover" />
+                                    <img src="/assets/Stories_img01.webp" alt="Aina" className="w-100 h-100 object-fit-cover" />
                                 </div>
                             </div>
                             <div className="col ms-md-5 mt-4 mt-md-0">
@@ -33,7 +33,7 @@ function Stories() {
                         <div className="row align-items-center mb-5 pb-4">
                             <div className="col-auto">
                                 <div className="rounded-circle overflow-hidden shadow-sm" style={{ width: '180px', height: '180px' }}>
-                                    <img src="src/assets/Stories_img02.webp" alt="Daniel" className="w-100 h-100 object-fit-cover" />
+                                    <img src="/assets/Stories_img02.webp" alt="Daniel" className="w-100 h-100 object-fit-cover" />
                                 </div>
                             </div>
                             <div className="col ms-md-5 mt-4 mt-md-0">
